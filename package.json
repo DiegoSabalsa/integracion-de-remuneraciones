@@ -1,0 +1,16 @@
+{
+  "name": "idatos",
+  "version": "1.0.0",
+  "description": "integracion de datos de remuneraciones",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "pg": "^8.8.0"
+  }
+}

@@ -1,0 +1,34 @@
+﻿_id,OID,Tipo Organismo,INCISO,Nombre Inciso,Nombre UE,Nombre organismo,Denominacion cargo,Escalafon,Grado,Moneda,Remuneracion mensual nominal,Horas semanales
+1,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Director de División (profesional),N/C,-1,Pesos uruguayos,107372,-1
+2,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Profesional universitario,A,12,Pesos uruguayos,101498,40
+3,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Jefe de Departamento (profesional),N/C,-1,Pesos uruguayos,94255,-1
+4,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Profesional universitario,A,8,Pesos uruguayos,85883,40
+5,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Director de División (no profesional),N/C,-1,Pesos uruguayos,84176,-1
+6,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Jefe de Sección (profesional),N/C,-1,Pesos uruguayos,83220,-1
+7,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Profesional universitario,A,4,Pesos uruguayos,76828,40
+8,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Jefe de Sector (profesional),N/C,-1,Pesos uruguayos,73234,-1
+9,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Técnico profesional,B,8,Pesos uruguayos,73196,40
+10,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Especializado,D,8,Pesos uruguayos,73196,40
+11,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Jefe de Departamento (no profesional),N/C,-1,Pesos uruguayos,69206,-1
+12,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Administrativo,C,8,Pesos uruguayos,62461,40
+13,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Técnico profesional,B,6,Pesos uruguayos,62265,40
+14,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Especializado,D,6,Pesos uruguayos,62265,40
+15,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Oficios,E,7,Pesos uruguayos,59532,48
+16,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Jefe de Sección (no profesional),N/C,-1,Pesos uruguayos,57000,-1
+17,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Técnico profesional,B,3,Pesos uruguayos,53677,40
+18,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Especializado,D,3,Pesos uruguayos,53677,40
+19,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Administrativo,C,6,Pesos uruguayos,52702,40
+20,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Oficios,E,4,Pesos uruguayos,49382,48
+21,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Jefe de Sector (no profesional),N/C,-1,Pesos uruguayos,46948,-1
+22,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Especializado,D,1,Pesos uruguayos,45979,40
+23,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Administrativo,C,3,Pesos uruguayos,45870,40
+24,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Oficios,E,3,Pesos uruguayos,45870,48
+25,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Oficios,E,2,Pesos uruguayos,42942,48
+26,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Servicios auxiliares,F,7,Pesos uruguayos,41152,40
+27,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Oficios,E,1,Pesos uruguayos,41094,48
+28,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Administrativo,C,1,Pesos uruguayos,40013,40
+29,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Oficios,E,1,Pesos uruguayos,39172,48
+30,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Servicios auxiliares,F,4,Pesos uruguayos,38224,40
+31,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Servicios auxiliares,F,3,Pesos uruguayos,35783,40
+32,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Servicios auxiliares,F,2,Pesos uruguayos,34243,40
+33,2.16.858.0.0.0.1.1.4,Ministerio,10,Ministerio de Transporte y Obras Públicas,No corresponde,No corresponde,Servicios auxiliares,F,1,Pesos uruguayos,32644,40

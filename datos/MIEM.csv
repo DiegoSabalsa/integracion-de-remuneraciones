@@ -1,0 +1,69 @@
+﻿_id,OID,Tipo Organismo,INCISO,UE,Nombre Inciso,Nombre UE,Nombre Organismo,DENOMINACIÓN DEL CARGO,ESCALAFON,GRADO,2022.0
+1,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Ministro de Estado,P,S/D,309439.71
+2,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Subsecretario de Estado,P,S/D,263023.75
+3,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Director General de Secretaría,Q,S/D,216607.8
+4,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Jefe de Política Económica,Q,S/D,127737.78
+5,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Director Nacional,Q,S/D,185663.83
+6,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Gerente de Área de Calidad y Gestión del Cambio,CO3,17,184721.24
+7,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Gerente Financiero Contable,A,16,86132.56
+8,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Gerente Técnico I Director de División,A,16,86132.56
+9,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Gerente Técnico I Director de División,A,16,86132.56
+10,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Asesor I,A,15,81948.47
+11,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Asesor III,A,14,78224.71
+12,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Asesor III,A,13,74941.49
+13,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Asesor IV,A,12,72079.73
+14,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Asesor III,A,11,69580.53
+15,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Asesor V,A,10,67139.95
+16,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Asesor IX,A,7,61627.39
+17,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Asesor XII,A,4,56416.59
+18,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Sub Gerente RRHH,B,15,81948.47
+19,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Técnico,B,15,81948.47
+20,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Técnico II,B,13,74941.49
+21,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Técnico III,B,12,72079.73
+22,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Técnico IV,B,11,69580.53
+23,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Técnico V,B,10,67139.95
+24,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Técnico VIII,B,7,61627.39
+25,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Técnico XII,B,3,55487.93
+26,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Director de División,C,13,74941.49
+27,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Director de Departamento,C,12,72079.73
+28,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Sub Director de División,C,12,72079.73
+29,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Jefe de Departamento,C,12,72079.73
+30,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Administrativo,C,12,72079.73
+31,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Jefe de Sección,C,11,69580.53
+32,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Secretario II,C,11,69580.53
+33,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Jefe de Sección,C,10,67139.95
+34,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Administrativo,C,10,67139.95
+35,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Administrativo I,C,9,65025.23
+36,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Administrativo I,C,8,63203.89
+37,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Administrativo II,C,8,63203.89
+38,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Administrativo,C,7,61627.39
+39,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Administrativo III,C,7,61627.39
+40,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Administrativo IV,C,6,59300.81
+41,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Administrativo III,C,6,59300.81
+42,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Administrativo VI,C,4,56416.59
+43,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Administrativo,C,1,52823.66
+44,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Administrativo VIII,C,1,52823.66
+45,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Administrativo IX,C,1,52823.66
+46,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Administrativo XIV,C,1,52823.66
+47,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería","Gerente Técnico II, Director de División",D,14,78224.71
+48,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Especialista III,D,13,74941.49
+49,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Especialista III,D,12,72079.73
+50,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Especialista IV,D,11,69580.53
+51,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Especialista V,D,10,67139.95
+52,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Especialista VI,D,9,65025.23
+53,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Especialista VII,D,8,63203.89
+54,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Especialista IX,D,6,59300.81
+55,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Especialista XIV,D,1,52823.66
+56,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Oficial II,E,8,63203.89
+57,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Oficial V,E,8,63203.89
+58,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Oficial III,E,7,61627.39
+59,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Oficial V,E,7,61627.39
+60,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Oficial IV,E,6,59300.81
+61,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Oficial,E,1,52823.66
+62,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Oficial IX,E,1,52823.66
+63,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Auxiliar,F,7,61627.39
+64,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Auxiliar III,F,6,59300.81
+65,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Adscripto al Ministro,S/D,S/D,130625.03
+66,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Adscripto al Ministro,S/D,S/D,134149.64
+67,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Adscripto al Ministro,S/D,S/D,150918.06
+68,2.16.858.0.0.0.1.1.9.0,Ministerio,8,S/D,"Ministerio de Industria, Energía y Minería",S/D,"Ministerio de Industria, Energía y Minería",Adscripto al Ministro,S/D,S/D,101716.2

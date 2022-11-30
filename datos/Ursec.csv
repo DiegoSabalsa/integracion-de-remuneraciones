@@ -1,0 +1,22 @@
+﻿_id,OID,INCISO,UE,Nombre Inciso,Nombre UE,Nombre Organismo,DENOMINACIÓN DEL CARGO,ESCALAFON,GRADO,REMUNERACION MENSUAL NOMINAL
+1,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Secretario General,A,15,223150
+2,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Asesor General,A,15,223150
+3,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Gerente de División,A,15,223150
+4,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Profesional I,A,14,164135
+5,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Jefe de Departamento,A,14,164135
+6,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Asesor I,A,14,164135
+7,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Profesional II,A,13,146883
+8,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Profesional III,A,12,114059
+9,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Jefe de Unidad,A,12,114059
+10,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Técnico I,A,12,114059
+11,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Jefe de Unidad,B,12,114059
+12,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Jefe de Unidad,C,12,114059
+13,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Profesional IV,A,11,81236
+14,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Técnico II,B,11,81236
+15,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Especialista I,D,11,81236
+16,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Administrativo I,C,10,67697
+17,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Especialista II,D,10,67697
+18,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Administrativo II,C,9,60167
+19,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Especialista III,D,9,60167
+20,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Administrativo III,C,8,48133
+21,2.16.858.0.0.0.1.0.0.6.0,Presidencia,2,9,Presidencia,Unidad Reguladora de Servicios de Comunicaciones,Auxiliar I,E,6,31503
